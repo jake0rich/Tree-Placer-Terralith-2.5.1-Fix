@@ -1,0 +1,7 @@
+{
+   "replace": false,
+   "values": {
+	   "terralith:sakura_grove": "terraltih:sakura/cherry_trees",
+	   "terralith:sakura_valley": "terraltih:sakura/cherry_trees"
+   }
+}

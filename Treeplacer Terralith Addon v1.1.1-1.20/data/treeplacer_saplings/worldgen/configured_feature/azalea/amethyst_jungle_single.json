@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+	  {
+        "chance": 0.2,
+        "feature": "terralith:jungle/amethyst/big_hawaii"
+      },
+	  {
+        "chance": 0.2,
+        "feature": "terralith:jungle/amethyst/acacia_azalea"
+      }
+    ],
+    "default": "terralith:jungle/amethyst/small_azalea"
+  }
+}
